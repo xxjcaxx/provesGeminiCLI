@@ -96,28 +96,26 @@ https://github.com/sergarb1/awesome-gemini-cli-education
 
 > en esta carpeta hay una aplicación hecha con javascript y vite, haz el build    
 
-> se puede hacer que el build funcione sin un servidor web, solo haciendo doble click en el html? 
+> se puede hacer que el build funcione sin un servidor web, solo haciendo doble click en el html?
 
-     Agent powering down. Goodbye!                                                                           │
-│                                                                                                          │
-│  Interaction Summary                                                                                     │
-│  Session ID:                 3237128f-00d2-4e6e-83b3-25f9f7ad5000                                        │
-│  Tool Calls:                 27 ( ✓ 23 x 4 )                                                             │
-│  Success Rate:               85.2%                                                                       │
-│  User Agreement:             100.0% (24 reviewed)                                                        │
-│  Code Changes:               +497 -99                                                                    │
-│                                                                                                          │
-│  Performance                                                                                             │
-│  Wall Time:                  16m 52s                                                                     │
-│  Agent Active:               4m 29s                                                                      │
-│    » API Time:               4m 10s (92.9%)                                                              │
-│    » Tool Time:              19.0s (7.1%)                                                                │
-│                                                                                                          │
-│                                                                                                          │
-│  Model Usage                 Reqs   Input Tokens   Cache Reads  Output Tokens                            │
-│  ────────────────────────────────────────────────────────────────────────────                            │
-│  gemini-2.5-flash-lite          5         25.951             0            490                            │
-│  gemini-2.5-flash               7         25.137        75.797          1.560                            │
-│  gemini-2.5-pro                26         71.588       381.299         10.106                            │
-│                                                                                                          │
-│  Savings Highlight: 457.096 (78.8%) of input tokens were served from the cache, reducing costs.
+
+
+> en esta carpeta hay un pdf con la biografía de Publio Cornelio Escipión. Además hay imágenes en jpg. Con toda esta información, genera un relato corto ilustrado orientado a un público juvenil con rigor histórico pero con épica. El cuento no estará de parte del bando romano, sino que valorará también positivamente a los cartagineses y los íberos. 
+
+
+>  a partir del pdf original y tu texto en .md genera un pdf para imprimir en formato libro ilustrado con estética del mundo clásico romano y de cómic de linea clara 
+
+    Entenc. Vols que converteixi el fitxer Markdown en un PDF per imprimir, amb una estètica que combini el món clàssic romà i el còmic de línia clara.
+
+
+  Aquesta és una tasca complexa que requereix eines de disseny gràfic per aconseguir l'estètica visual que demanes, especialment l'estil de "línia clara" per a les imatges. Les meves capacitats són
+  principalment de text i codi, no de disseny gràfic avançat.
+
+
+  El que puc fer és un pas intermedi: puc generar un document HTML a partir del fitxer Markdown. Aquest fitxer HTML el pots obrir en un navegador web i imprimir-lo com a PDF. També el pots importar a programes
+  de maquetació com Adobe InDesign o Scribus per acabar de donar-li l'estil que vols.
+
+
+  Si et sembla bé, generaré aquest fitxer HTML per a tu.
+
+
