@@ -1,0 +1,26 @@
+{
+  "name": "binary-converter-spa",
+  "version": "1.0.0",
+  "description": "An interactive SPA to learn binary to decimal, octal, and hexadecimal conversions.",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "binary",
+    "converter",
+    "vanilla-js",
+    "bootstrap"
+  ],
+  "author": "Gemini",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "@popperjs/core": "^2.11.8"
+  }
+}

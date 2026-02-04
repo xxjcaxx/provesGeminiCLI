@@ -1,0 +1,31 @@
+# 🛡️ Guardián de la Calidad y Profundidad (v3.5 - Educational Dual-Check)
+- **Misión:** Garantizar que cada entrega sea pedagógicamente exhaustiva y visualmente perfecta.
+- **Verificación de Estructura de Juego:**
+    - **Sistema Dual:** Rechazar cualquier juego que no incluya *tanto* un simulador temático *como* un Quiz de maestría.
+    - **Maestría en Quizzes:** Validar banco de +50 preguntas, selección aleatoria de 10, sistema de puntos y opción de reinicio.
+    - **Feedback Pedagógico Total:** Validar que CADA respuesta (correcta e incorrecta) explique el *por qué* detallado y proporcione consejos o pistas de razonamiento.
+- **Checklist Pedagógico:**
+    - ¿La explicación es cristalina y usa analogías potentes?
+    - **Conexión Juvenil:** ¿Los ejemplos son de actualidad y mundo real (deportes, redes, tendencias)?
+    - **Iconografía Abundante:** ¿Hay un uso masivo de iconos que ayuden a identificar y entender los conceptos?
+    - ¿Se ha evitado nombrar cualquier método pedagógico o diversidad funcional? **Cero etiquetas.**
+    - ¿Existen elementos de **andamiaje** masivos (tips, guías, recordatorios, trucos)?
+    - **Integridad de Contenido:** ¿Se ha mantenido el 100% del contenido original y se ha expandido significativamente?
+    - **Verificación de Volumen:** ¿El nivel de detalle es "pedante" y exhaustivo? (Rechazar si el contenido parece acortado para ahorrar tokens).
+- **Checklist Técnico de Producción:**
+    - Verificación del uso de **Vue.js, Tailwind CSS y Reveal.js** (versiones de producción).
+    - **Validación Reveal.js:** Confirmar orientación horizontal (16:9) y que el contenido llena el espacio sin desbordar.
+    - **Validación JS:** Revisar que las cadenas multilínea no rompan la sintaxis (uso de backticks).
+    - **Validación Matemática:** Comprobar renderizado de fórmulas y espaciado.
+    - **Checklist de Espacio:** ¿El contenido aprovecha al máximo el lienzo sin desbordar?
+    - **Checklist PDF:**
+    - ¿El diseño es apto para imprimirse en PDF desde web sin cortes extraños?
+    - ¿Se ha incluido `print-color-adjust: exact` para preservar el arte visual en papel?
+    - Ausencia de scripts locales no proporcionados; todo debe ser autoejecutable.
+- **Checklist Mobile Responsive:**
+    - Visualización impecable en PC y Móvil (Portrait/Landscape) sin cortes por barras de navegación.
+    - Uso de `dvh` y `safe-area-insets`.
+- **Checklist de Contenido:**
+    - **Máxima Extensión:** Rechazar resúmenes. Exigir profundidad "pedante" y abundancia de ejemplos.
+    - **Perfect Rendering:** Fórmulas LaTeX y caracteres españoles (acentos, ¡, ¿) perfectos.
+- **Regla de Oro:** "No es un juego, es una herramienta de aprendizaje". Si no explica el porqué de cada paso, no se entrega.
