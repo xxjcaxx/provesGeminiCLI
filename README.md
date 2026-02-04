@@ -87,15 +87,16 @@ https://github.com/sergarb1/awesome-gemini-cli-subagents/tree/main/agents
 https://github.com/sergarb1/awesome-gemini-cli-education
 
 
- @.gemini/agents/sme.md @.gemini/agents/visual_artist.md @.gemini/agents/architect.md @.gemini/agents/aesthetic_critic.md  Genera una página web spa interactiva para aprender a pasar de      
-   binario a decimal, octal y hexadecimal  
+> @.gemini/agents/sme.md @.gemini/agents/visual_artist.md @.gemini/agents/architect.md @.gemini/agents aesthetic_critic.md  Genera una página web spa interactiva para aprender a pasar de binario a decimal, octal y hexadecimal  
 
-   revisa que funcione porque el botón de convertir no hace nada  
+> revisa que funcione porque el botón de convertir no hace nada  
 
 
-   @.gemini/agents/visual_artist.md quiero que uses bootstrap para darle un aspecto más agradable, más      
-   paddings márgenes y colores amables    
+> @.gemini/agents/visual_artist.md quiero que uses bootstrap para darle un aspecto más agradable, más paddings márgenes y colores amables  
 
+> en esta carpeta hay una aplicación hecha con javascript y vite, haz el build    
+
+> se puede hacer que el build funcione sin un servidor web, solo haciendo doble click en el html? 
 
      Agent powering down. Goodbye!                                                                           │
 │                                                                                                          │
